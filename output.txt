@@ -1,0 +1,46 @@
+user1.c(59): user: 0
+user1.c(59): user: 3
+user1.c(59): user: 2
+CLI.c(19): 1 :0
+CLI.c(20): 2 :3
+CLI.c(21): 3 :2
+userDeleteRandomTicket.c(69): 4
+userDeleteRandomTicket.c(77): 4
+CLI.c(28): Delete user westy
+user1.c(59): user: 0
+user1.c(59): user: 3
+user1.c(59): user: 2
+CLI.c(19): 1 :0
+CLI.c(20): 2 :3
+CLI.c(21): 3 :2
+userDeleteRandomTicket.c(69): 3
+userDeleteRandomTicket.c(77): 2
+CLI.c(28): Delete user westy
+user1.c(59): user: 0
+user1.c(59): user: 2
+user1.c(59): user: 2
+CLI.c(19): 1 :0
+CLI.c(20): 2 :2
+CLI.c(21): 3 :2
+userDeleteRandomTicket.c(69): 10
+userDeleteRandomTicket.c(77): 3
+CLI.c(31): Delete user qwerty
+user1.c(59): user: 0
+user1.c(59): user: 2
+user1.c(59): user: 2
+CLI.c(19): 1 :0
+CLI.c(20): 2 :2
+CLI.c(21): 3 :2
+userDeleteRandomTicket.c(69): 9
+userDeleteRandomTicket.c(77): 6
+CLI.c(31): Delete user qwerty
+user1.c(59): user: 0
+user1.c(59): user: 2
+user1.c(59): user: 2
+CLI.c(19): 1 :0
+CLI.c(20): 2 :2
+CLI.c(21): 3 :2
+userDeleteRandomTicket.c(69): 8
+userDeleteRandomTicket.c(77): 4
+CLI.c(31): Delete user qwerty
+Vuser Terminated.
